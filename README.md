@@ -1,4 +1,10 @@
+In order to run an LLM powerful enough to maintain coherence in the 'lives' of our little Truman Show characters over meaningful periods of time, I have just ordered a new GPU (NVIDIA RTX 4090) which I intend to put to good use in the coming weeks — first order of business: running this simulation 24/7, and watching it unfold with no end in sight. 👀
 
+Once it will be live 24/7, I will be live-streaming it on X and allowing people to comment on it to 'steer' the narrative inside the simulation in real time (maybe once a day or so, to avoid absolute chaos).
+
+Let's see if our little agents' lives will be any fun!
+
+---
 
 # Generative Agents: Interactive Simulacra of Human Behavior 
 
